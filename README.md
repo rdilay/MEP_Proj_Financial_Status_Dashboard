@@ -4,7 +4,7 @@ Analyzing budget, cost, contract value, and profitability across the constructio
 
 **🔗 Interactive Dashboard:** 👉 [Explore the live Tableau version here.](https://public.tableau.com/views/MEP_Proj_Financial_Status_Dashboard_09-2019/Proj_Final?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![MEP_Proj_Fin](<img width="1199" height="1199" alt="Proj_Final" src="https://github.com/user-attachments/assets/a1c261d1-126b-4a9f-9d05-e480eb2b6fde" />)
+<img width="1199" height="1199" alt="Proj_Final" src="https://github.com/user-attachments/assets/1e410aed-6e14-4be2-a9f2-2f7ab1217ec0" />
 
 ## 📌 Key Metrics and Dimensions
 - **Contract Value:** Original contract amount awarded by the client
