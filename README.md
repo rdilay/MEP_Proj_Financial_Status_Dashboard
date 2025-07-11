@@ -2,9 +2,9 @@
 
 Analyzing budget, cost, contract value, and profitability across the construction lifecycle using Excel and Tableau.
 
-**🔗 Interactive Dashboard:** 👉 [Explore the live Tableau version here.](https://public.tableau.com/views/actualvsclaims/Proj_Final)
+**🔗 Interactive Dashboard:** 👉 [Explore the live Tableau version here.](https://public.tableau.com/views/MEP_Proj_Financial_Status_Dashboard_09-2019/Proj_Final?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![MEP_Proj_Fin](https://github.com/user-attachments/assets/58e9f463-5f59-47a4-9da4-7d42fd637c30)
+![MEP_Proj_Fin](<img width="1199" height="1199" alt="Proj_Final" src="https://github.com/user-attachments/assets/a1c261d1-126b-4a9f-9d05-e480eb2b6fde" />)
 
 ## 📌 Key Metrics and Dimensions
 - **Contract Value:** Original contract amount awarded by the client
